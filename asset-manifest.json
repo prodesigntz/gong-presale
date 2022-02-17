@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.js": "/static/js/main.ab805b24.chunk.js",
+    "main.js.map": "/static/js/main.ab805b24.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.db25ea7d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.db25ea7d.js.map",
+    "static/css/2.95fd627b.chunk.css": "/static/css/2.95fd627b.chunk.css",
+    "static/js/2.46eef32b.chunk.js": "/static/js/2.46eef32b.chunk.js",
+    "static/js/2.46eef32b.chunk.js.map": "/static/js/2.46eef32b.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.95fd627b.chunk.css.map": "/static/css/2.95fd627b.chunk.css.map",
+    "static/js/2.46eef32b.chunk.js.LICENSE.txt": "/static/js/2.46eef32b.chunk.js.LICENSE.txt",
+    "static/media/bnb.92643887.png": "/static/media/bnb.92643887.png",
+    "static/media/busd.e6f9130a.png": "/static/media/busd.e6f9130a.png",
+    "static/media/cog.b223dbe9.svg": "/static/media/cog.b223dbe9.svg",
+    "static/media/dai.196bd5b1.png": "/static/media/dai.196bd5b1.png",
+    "static/media/double-down.83b2af47.svg": "/static/media/double-down.83b2af47.svg",
+    "static/media/eth.23ca4a5f.png": "/static/media/eth.23ca4a5f.png",
+    "static/media/fb.b574469e.svg": "/static/media/fb.b574469e.svg",
+    "static/media/linkedin.0eddf22e.svg": "/static/media/linkedin.0eddf22e.svg",
+    "static/media/logout.c8f6d8d0.svg": "/static/media/logout.c8f6d8d0.svg",
+    "static/media/medium.aa6db19b.svg": "/static/media/medium.aa6db19b.svg",
+    "static/media/menu.3cdf31e8.svg": "/static/media/menu.3cdf31e8.svg",
+    "static/media/metamask.311a962c.webp": "/static/media/metamask.311a962c.webp",
+    "static/media/swap.cd364022.svg": "/static/media/swap.cd364022.svg",
+    "static/media/telegram.f22c4a49.svg": "/static/media/telegram.f22c4a49.svg",
+    "static/media/twitter.3f7d995c.svg": "/static/media/twitter.3f7d995c.svg",
+    "static/media/usdt.b1e4146b.png": "/static/media/usdt.b1e4146b.png",
+    "static/media/wallet.57f46fea.svg": "/static/media/wallet.57f46fea.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.db25ea7d.js",
+    "static/css/2.95fd627b.chunk.css",
+    "static/js/2.46eef32b.chunk.js",
+    "static/js/main.ab805b24.chunk.js"
+  ]
+}
